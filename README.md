@@ -1,4 +1,5 @@
 # FounderBridge
+<<<<<<< HEAD
 
 FounderBridge is an open platform designed to connect startup founders with talented technical co-founders. Founders can create profiles, share their startup ideas, and browse a pool of developers who can apply to join their projects. Developers can showcase their portfolios and specify what they’re looking for in a partnership, whether it’s equity, experience, or mentorship. Once matched, both parties can exchange contact details to kickstart their collaboration.
 
@@ -38,3 +39,6 @@ FounderBridge is an open platform designed to connect startup founders with tale
 - **Real-time Communication (Optional):** Socket.io for live chat or notifications
 
 ---
+=======
+FounderBridge is an open platform designed to connect startup founders with talented technical co-founders, fostering meaningful collaborations that drive innovation. It serves as a meeting ground for entrepreneurs with bold ideas and developers eager to build something impactful.
+>>>>>>> 6eae7c994d5e976aba5c539a47a2830844fc2468
